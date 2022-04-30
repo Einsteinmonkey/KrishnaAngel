@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(238,238,238);
+    text-align: center;
+}
+ h1{
+     font-size: 70px;
+ }
+ #img-div{
+     background: white;
+     padding: 15px;
+ }
+ img {
+     display: block;
+     margin: 0 auto;
+     height: auto;
+     max-width: 100vw;
+ }
+ #img-caption{
+     font-size: 20px;
+ }
+ #tribute-info{
+     display: block;
+
+ }
+ ul{
+     text-align: left;
+     margin-left: 500px;
+     margin-right: 300px;
+ }
+ ul li {
+     padding: 5px;
+     margin-top: 20px;
+     font-size: 30px;
+ }
+ #bottom-caption p {
+     font-size: 25px;
+     font-weight: bolder;
+ }
+ #bottom-caption a {
+     text-decoration: none;
+     color: rgb(71,124,167);
+ }
